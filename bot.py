@@ -33,6 +33,7 @@ PRESETS = {
     "ZoomOut": "The camera is zoomed out to reveal the woman in the photo is bottomless. She is naked from the waist down and we can see her vagina. The only clothes are the ones in the photo. Ensure the face from the original image remains perfectly intact, preserving the exact likeness as the top priority. Maintain the original image quality, including any lower camera quality or artifacts.",
     "ZoomOutNaked": "The camera is zoomed out to reveal the woman in the photo is naked. She is naked from the waist down and we can see her vagina. Her top is lifted up above her breasts so we can see her whole naked body. Ensure the face from the original image remains perfectly intact, preserving the exact likeness as the top priority. Maintain the original image quality, including any lower camera quality or artifacts.",
     "Wet": "The woman in the photo is wet and naked. Remove all clothing and make the woman look wet. The floor is damp around her feet. Ensure the face and pose from the original image remains perfectly intact, preserving the exact likeness as the top priority. Maintain the original image quality, including any lower camera quality or artifacts."
+    "Wet_Group": "The women in the photo are wet and naked. Remove all clothing and make the women look wet. The floor is damp around their feet. Ensure the face and pose from the original image remains perfectly intact, preserving the exact likeness as the top priority. Maintain the original image quality, including any lower camera quality or artifacts."
 }
 
 
